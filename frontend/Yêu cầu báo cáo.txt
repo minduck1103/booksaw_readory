@@ -1,0 +1,57 @@
+Tôi sẽ tóm tắt nội dung chính của file PDF về dự án cuối kỳ môn Web Programming with Node.js:
+
+## I. Tổng quan
+- Yêu cầu xây dựng một website thương mại điện tử hoàn chỉnh
+- Sử dụng Node.js cho backend, frontend framework tự chọn
+- Làm việc theo nhóm 2-3 thành viên
+- Yêu cầu triển khai lên hosting public hoặc containerize bằng Docker Compose
+
+## II. Các yêu cầu chức năng chính
+
+### 1. Trang chủ
+- Hiển thị sản phẩm theo danh mục
+- Cho phép mua hàng không cần đăng nhập
+- Hỗ trợ 2 loại user: khách hàng và admin
+
+### 2. Quản lý người dùng
+- Đăng ký, đăng nhập
+- Xác thực qua mạng xã hội
+- Quản lý thông tin cá nhân
+- Phân quyền người dùng
+
+### 3. Quản lý sản phẩm
+- Danh mục sản phẩm
+- Biến thể sản phẩm
+- Quản lý tồn kho
+- Tìm kiếm và lọc sản phẩm
+
+### 4. Giỏ hàng và thanh toán
+- Thêm vào giỏ hàng
+- Quy trình thanh toán
+- Mã giảm giá
+
+### 5. Quản lý đơn hàng
+- Tạo đơn hàng
+- Theo dõi trạng thái
+- Lịch sử đơn hàng
+
+### 6. Trang quản trị
+- Dashboard thống kê
+- Quản lý đơn hàng
+- Quản lý người dùng và sản phẩm
+
+## III. Điểm đánh giá
+- Tính năng khách hàng: 6.0 điểm
+- Tính năng admin: 2.0 điểm  
+- Yêu cầu khác: 2.0 điểm
+- Tính năng bonus: tối đa 2.0 điểm
+
+## IV. Yêu cầu nộp bài
+- Source code
+- Video demo
+- Folder git chứng minh làm việc nhóm
+- File README.txt
+- Folder bonus features
+- File Rubrik tự đánh giá
+
+Dự án yêu cầu triển khai đầy đủ các tính năng cơ bản của một website TMĐT với chất lượng cao và có thể mở rộng.

@@ -1,0 +1,10 @@
+Những thứ đã sử dung trong dự án:
+front-end:
+Reactjs
+-react-slick
+-ant.design
+-react-router
+- style-component
+- redux-toolkit.js
+-axios
+react-query
